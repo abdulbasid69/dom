@@ -3,7 +3,7 @@
   flex-direction: row;
 }
 .childone{
-  border: 3px solid #1D98FF;
+  border: 3px solid ;
   padding: 3%;
   margin: 2%;
   width: 30%;
@@ -22,6 +22,14 @@ img{
   margin-left: auto;
   margin-right: auto;
   box-shadow: 5px 7px 15px blue;
+}
+.childtwo{
+  border: 3px solid #1D98FF;
+  padding: 3%;
+  margin: 2%;
+  width: 70%;
+  border-radius:;
+  background-color:;
 }
 
 @media only screen and (min-width:320px) and (max-width: 480px){
@@ -53,6 +61,14 @@ img{
     margin-right: auto;
     box-shadow: 5px 7px 15px #000;
   }
+  .childtwo{
+  border: 3px solid #1D98FF;
+  padding: 3%;
+  margin: 2%;
+  width: 70%;
+  border-radius:;
+  background-color:;
+}
   
 }
 @media only screen and (min-width:481px) and (max-width:768px ){
